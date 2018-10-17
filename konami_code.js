@@ -19,5 +19,3 @@ function keydownHandler(event) {
     index = 0;
   }
 }
-
-init()
